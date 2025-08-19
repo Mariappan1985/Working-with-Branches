@@ -1,6 +1,4 @@
-Apple
-Banana
+apple
+rasberry
 grapes
-Rasberry
-pear
 Melon
